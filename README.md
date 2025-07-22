@@ -68,7 +68,7 @@ Hi there! I'm **Putra Fisabil Muhammad**, a passionate and resilient individual 
     - Dashboard also has been made for user convenience, deployed in Tableau Public.
     - Technology / Tools: Python, Pandas, Scipy, Seaborn, Plotly, Tableau
 
-- **[Tiroid Reccured Detection](https://reccured-pasien-test.streamlit.app/)**
+- **[Tiroid Recurred Detection](https://reccured-pasien-test.streamlit.app/)**
     - A machine learning project to predict whether a person will experience a recurrence after thyroid surgery.
     - Built end-to-end pipeline from data preprocessing, feature selection, and model tuning. 
     - Trained multiple classifiers (KNN, RF, XGBoost, etc.) and selected the best based on Recall.
@@ -88,7 +88,7 @@ Hi there! I'm **Putra Fisabil Muhammad**, a passionate and resilient individual 
 ### 📬 Contact
 
 I'm always open to collaboration, freelance opportunities, or just a friendly chat!  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/putra-fisabil-muhammad-a928ba233/?trk=opento_sprofile_pfeditor)
+📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/putra-fisabil-muhammad-a928ba233/?trk=opento_sprofile_pfeditor)
 
 ---
 
