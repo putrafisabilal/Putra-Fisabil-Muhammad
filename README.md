@@ -82,13 +82,13 @@ Hi there! I'm **Putra Fisabil Muhammad**, a passionate and resilient individual 
     - Model deployed on Streamlit for user, also a python script for real time detection.
     - Technology / Tools: Python, PyTorch, ultralytics, opencv. 
 
-
+- Please check the repository below.
 ---
 
 ### 📬 Contact
 
 I'm always open to collaboration, freelance opportunities, or just a friendly chat!  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-here)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/putra-fisabil-muhammad-a928ba233/?trk=opento_sprofile_pfeditor)
 
 ---
 
