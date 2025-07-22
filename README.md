@@ -7,9 +7,9 @@ Hi there! I'm **Putra Fisabil Muhammad**, a passionate and resilient individual 
 
 ### 🚀 About Me
 
-- 🎓 Graduated in **Computer Engineering** from Universitas Brawijaya.  
-- 📚 Completed a **Full-Time Data Scientist Bootcamp at Hacktiv8**, achieving satisfying results.  
-- 💡 Actively exploring the world of **Data Analytics**, **Machine Learning**, and **Big Data Engineering**.  
+- 🎓 Graduated in **Computer Engineering** from Universitas Diponegoro.  
+- 📚 Completed a **Full-Time Data Scientist Bootcamp at Hacktiv8**, achieving 93% results.  
+- 💡 Actively exploring the world of **Data Analytics**, **Machine Learning**, and **Data Engineering**.  
 - 🧠 I believe in continuous learning — whether it’s through reading articles, hands-on coding, or watching tutorials.  
 - 🌱 Always open to new challenges and opportunities that will help me grow as a Data Scientist and a person.
 
